@@ -20,6 +20,8 @@ J'ai utiliser le paquet MAMP sous Windows pour avoir les programmes Apache, PHP 
 
 > Voici une demo du site web
 
- ![DEMO](https://github.com/aboughatane/HYPERMEDIA/blob/main/demo.PNG)
+ ![DEMO](https://github.com/aboughatane/TP1_THYP/blob/main/tp1-screenshot1.PNG)
+ 
+ ![DEMO](https://github.com/aboughatane/TP1_THYP/blob/main/tp1-screenshot2.PNG)
 
 
